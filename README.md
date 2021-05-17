@@ -17,10 +17,14 @@ console.log(WRAP)
 
 > yarn
 
-> # Edit data/markets.csv
-
 > yarn build
 
 Please keep the CSV file alphabetically ordered by token name (first column).
 
 ## Acknowledgments
+
+Original token list from @ztepler9000 ipython notebook.
+
+## Donations
+
+Donations kindly accepted at **styts.tez** / tz1STYtSyvfKrL46VYuJAKcgqDSDKK8ZwNyq
