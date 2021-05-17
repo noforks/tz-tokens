@@ -65,6 +65,11 @@
     "decimals": 6
   },
   {
+    "ticker": "GSAL",
+    "address": "KT1BzNUUjURkTtNhXFkbGtu9fY3Q5scKZrvK",
+    "decimals": 0
+  },
+  {
     "ticker": "GUTS",
     "address": "KT1WYQj3HEt3sxdsV4dMLA8RKzUnYAzXgguS",
     "decimals": 0
