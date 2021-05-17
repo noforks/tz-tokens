@@ -1,0 +1,15 @@
+{
+  "name": "tz-tokens",
+  "version": "0.0.1",
+  "description": "Library of the Tezos token ecosystem",
+  "main": "dist/markets.json",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "repository": "https://github.com/noforks/tz-tokens",
+  "author": "Kirill Stytsenko <kirill@styts.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}

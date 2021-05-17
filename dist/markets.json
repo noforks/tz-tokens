@@ -1,0 +1,257 @@
+[
+  {
+    "ticker": "BART",
+    "address": "KT1WJVYEjLRirPQDSWqfggjqFGn14y9hiCBL",
+    "decimals": 9
+  },
+  {
+    "ticker": "BDoge",
+    "address": "KT1Th57AbgJmiZWDny6Ewqd2sx5qSxJwu8ry",
+    "decimals": 4
+  },
+  {
+    "ticker": "BEEF",
+    "address": "KT1BtmMAnmTGHAA9ZV8xPzuwZu4ibL7f5qb3",
+    "decimals": 6
+  },
+  {
+    "ticker": "BEEz",
+    "address": "KT1A4tYKJDJHrLonvp4qkJpZz5fkoWcAxMxW",
+    "decimals": 2
+  },
+  {
+    "ticker": "BRR",
+    "address": "KT1PmH3JCEo65koqSGGUArKSpbKMN8dJ3BPZ",
+    "decimals": 6
+  },
+  {
+    "ticker": "CRUNCH",
+    "address": "KT1RRgK6eXvCWCiEGWhRZCSVGzhDzwXEEjS4",
+    "decimals": 8
+  },
+  {
+    "ticker": "CUU",
+    "address": "KT1W1hafYEzQkQLXyRPTxMeG3UaoUSsW7wNR",
+    "decimals": 2
+  },
+  {
+    "ticker": "CVZA",
+    "address": "KT1F3BqwEAoa2koYX4Hz7zJ8xfGSxxAGVT8t",
+    "decimals": 8
+  },
+  {
+    "ticker": "DONTz",
+    "address": "KT1FaPEfr2hGTR1d4tN9VikubuSVS1CuuMJX",
+    "decimals": 2
+  },
+  {
+    "ticker": "DeanCoin",
+    "address": "KT1BAPAVXMuYz63HrF9CGM9Gu8JVYTFpYqao",
+    "decimals": 6
+  },
+  {
+    "ticker": "ETHtz",
+    "address": "KT1Evsp2yA19Whm24khvFPcwimK6UaAJu8Zo",
+    "decimals": 18
+  },
+  {
+    "ticker": "F15H",
+    "address": "KT1CNEgfKrGWtYdWAGG3cyZAUcFFpotmAme9",
+    "decimals": 2
+  },
+  {
+    "ticker": "FLAME",
+    "address": "KT1Q93ftAUzvfMGPwC78nX8eouL1VzmHPd4d",
+    "decimals": 6
+  },
+  {
+    "ticker": "GUTS",
+    "address": "KT1WYQj3HEt3sxdsV4dMLA8RKzUnYAzXgguS",
+    "decimals": 0
+  },
+  {
+    "ticker": "HSK",
+    "address": "KT19HJTgEqnmi1cYyq8z2WFtyNTECodfixmj",
+    "decimals": 2
+  },
+  {
+    "ticker": "MEL",
+    "address": "KT1BsDKTXBiYck85fJnoDzedyKKNtMuC9B9h",
+    "decimals": 6
+  },
+  {
+    "ticker": "NOLA",
+    "address": "KT1Fm5fS6VhFyE9wgopXcoQ3Nyb5awLY2sQH",
+    "decimals": 6
+  },
+  {
+    "ticker": "RITA",
+    "address": "KT1L98jqwZtKUZbcPNxb3pTY7b2WXUGEzn8G",
+    "decimals": 6
+  },
+  {
+    "ticker": "RSAL",
+    "address": "KT1WDe2vJCDqz5euKupppQsioPcakUd45Tfo",
+    "decimals": 0
+  },
+  {
+    "ticker": "RTT",
+    "address": "KT1QoKSXVnvytnkbMLu8Nqh9vH9qPdtvxR6K",
+    "decimals": 2
+  },
+  {
+    "ticker": "SEB",
+    "address": "KT1S4WyNiYPoYheihysddNh5hojNFdiVBwZL",
+    "decimals": 2
+  },
+  {
+    "ticker": "SHTz",
+    "address": "KT1G7Z14RJLKbfu96Hc22bwNL67aykunAGyH",
+    "decimals": 2
+  },
+  {
+    "ticker": "SOIL",
+    "address": "KT1NXdxJkCiPkhwPvaT9CytFowuUoNcwGM1p",
+    "decimals": 4
+  },
+  {
+    "ticker": "STKR",
+    "address": "KT1BMEEPX7MWzwwadW3NCSZe9XGmFJ7rs7Dr",
+    "decimals": 18
+  },
+  {
+    "ticker": "TITz",
+    "address": "KT1BNRefGboWR4p2SFwDDTosjnPKPL9hVk3q",
+    "decimals": 2
+  },
+  {
+    "ticker": "TTT",
+    "address": "KT1WYoYSdHNmNJf9pHWPoHJWDA3bid1NP9SJ",
+    "decimals": 8
+  },
+  {
+    "ticker": "Tacoz",
+    "address": "KT1VfiExduEkrpM4TbsnAw9QV1VURqaRFGKs",
+    "decimals": 18
+  },
+  {
+    "ticker": "WEED",
+    "address": "KT1TYjt5eLHRx3nQpSfaR94oQ6vehu24vvSQ",
+    "decimals": 8
+  },
+  {
+    "ticker": "WRAP",
+    "address": "KT1FG63hhFtMEEEtmBSX2vuFmP87t9E7Ab4t",
+    "decimals": 8
+  },
+  {
+    "ticker": "bDAO",
+    "address": "KT1DssMzoSr8fnUUq1WxeSuHfLG4gzS7pgge",
+    "decimals": 6
+  },
+  {
+    "ticker": "banana",
+    "address": "KT1Sd8jvepChHEHo63owNfjnqgzJEkUWSj9q",
+    "decimals": 2
+  },
+  {
+    "ticker": "gDAO",
+    "address": "KT198myhugqAVvtNbYgN4sBKMFRYBvprcKHf",
+    "decimals": 6
+  },
+  {
+    "ticker": "hDAO",
+    "address": "KT1QxLqukyfohPV5kPkw97Rs6cw1DDDvYgbB",
+    "decimals": 6
+  },
+  {
+    "ticker": "kUSD",
+    "address": "KT1K4EwTpbvYN9agJdjpyJm4ZZdhpUNKB3F6",
+    "decimals": 18
+  },
+  {
+    "ticker": "rugDao",
+    "address": "KT1D3tdqrEkcwKkhJso5jmrJiyiaNVWtYiFJ",
+    "decimals": 2
+  },
+  {
+    "ticker": "sDAO",
+    "address": "KT1PrRTVNgxkRgyqqNQvwTiVhd55dqyxXJ6n",
+    "decimals": 0
+  },
+  {
+    "ticker": "sUSD",
+    "address": "KT1KFszq8UFCcWxnXuhZPUyHT9FK3gjmSKm6",
+    "decimals": 6
+  },
+  {
+    "ticker": "tCow",
+    "address": "KT1XQZxsG4pMgcN7q7Nu3XFihsb9mEvqBmAT",
+    "decimals": 2
+  },
+  {
+    "ticker": "tCowLP",
+    "address": "KT1UEfXGj5Ag73qCdZTk2534SZDT7cd7J8m8",
+    "decimals": 0
+  },
+  {
+    "ticker": "tDAO",
+    "address": "KT1X6dAh8fwQMkWC9yh4yuvkJaS5NjqY4NvW",
+    "decimals": 4
+  },
+  {
+    "ticker": "tSpanish",
+    "address": "KT1A834QfnWremTQ4tc63s8NKbHzLJVszgxc",
+    "decimals": 0
+  },
+  {
+    "ticker": "tezos10x",
+    "address": "KT1A4Sj8TBg4pazMkj226bAAcH6A4iCNQno4",
+    "decimals": 0
+  },
+  {
+    "ticker": "token42",
+    "address": "KT1M5H8qkJEzhdC3ZxZ78bSxgmcddrcusbry",
+    "decimals": 0
+  },
+  {
+    "ticker": "wBTC",
+    "address": "KT1DksKXvCBJN7Mw6frGj6y6F3CbABWZVpj1",
+    "decimals": 8
+  },
+  {
+    "ticker": "wDAI",
+    "address": "KT1PQ8TMzGMfViRq4tCMFKD2QF5zwJnY67Xn",
+    "decimals": 18
+  },
+  {
+    "ticker": "wLINK",
+    "address": "KT1Lpysr4nzcFegC9ci9kjoqVidwoanEmJWt",
+    "decimals": 18
+  },
+  {
+    "ticker": "wMATIC",
+    "address": "KT1RsfuBee5o7GtYrdB7bzQ1M6oVgyBnxY4S",
+    "decimals": 18
+  },
+  {
+    "ticker": "wPAX",
+    "address": "KT1Ca5FGSeFLH3ugstc5p56gJDMPeraBcDqE",
+    "decimals": 18
+  },
+  {
+    "ticker": "wSUSHI",
+    "address": "KT1Lotcahh85kp878JCEc1TjetZ2EgqB24vA",
+    "decimals": 18
+  },
+  {
+    "ticker": "wUSDC",
+    "address": "KT1U2hs5eNdeCpHouAvQXGMzGFGJowbhjqmo",
+    "decimals": 6
+  },
+  {
+    "ticker": "wWETH",
+    "address": "KT1DuYujxrmgepwSDHtADthhKBje9BosUs1w",
+    "decimals": 18
+  }
+]
